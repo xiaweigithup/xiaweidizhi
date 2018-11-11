@@ -14,6 +14,27 @@ public class xinzhou {
 		System.out.println("湖北省武汉市新洲区");
 		System.out.println("湖北省武汉市新洲区");
 		System.out.println("湖北省武汉市新洲区");
+		System.out.println("湖北省武汉市新洲区");
+		System.out.println("湖北省武汉市新洲区");
+		System.out.println("湖北省武汉市新洲区");
+		System.out.println("湖北省武汉市新洲区");
+		System.out.println("湖北省武汉市新洲区");
+		System.out.println("湖北省武汉市新洲区");
+		System.out.println("湖北省武汉市新洲区");
+		System.out.println("湖北省武汉市新洲区");
+		System.out.println("湖北省武汉市新洲区");
+		System.out.println("湖北省武汉市新洲区");
+		System.out.println("湖北省武汉市新洲区");
+		System.out.println("湖北省武汉市新洲区");
+		System.out.println("湖北省武汉市新洲区");
+		System.out.println("湖北省武汉市新洲区");
+		System.out.println("湖北省武汉市新洲区");
+		System.out.println("湖北省武汉市新洲区");
+		System.out.println("湖北省武汉市新洲区");
+		System.out.println("湖北省武汉市新洲区");
+		System.out.println("湖北省武汉市新洲区");
+		System.out.println("湖北省武汉市新洲区");
+		System.out.println("湖北省武汉市新洲区");
 
-
+	}
 }
